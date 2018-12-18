@@ -3,7 +3,6 @@
 import re
 import string
 import collections
-import timeit
 
 expected = ['the', 'and', 'to', 'of', 'i', 'you', 'a', 'my', 'hamlet', 'in']
 
